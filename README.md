@@ -2,7 +2,7 @@
 Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace varios años atras -->
 # Actualización Tecnológica IA -TechRefresh-IA  <!--Project Title -->
 
-Final project for the Building AI course CURSO
+“Proyecto del curso de Desarrollo de IA”
 
 ## Summary
 
