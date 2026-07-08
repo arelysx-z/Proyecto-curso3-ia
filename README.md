@@ -1,8 +1,8 @@
 <!--# Proyecto FINAL del-curso3-ia----- Building AI.
 Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace varios años atras -->
-# Project Title
-Actualización Tecnológica IA -TechRefresh-IA
-Final project for the Building AI course
+# Actualización Tecnológica IA -TechRefresh-IA  <!--Project Title -->
+
+Final project for the Building AI course CURSO
 
 ## Summary
 
