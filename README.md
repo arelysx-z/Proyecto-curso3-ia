@@ -5,9 +5,9 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 “Proyecto del curso de Desarrollo de IA”
 
 ## Summary
-
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
+Este proyecto consiste en un sistema de recomendación inteligente que diseña rutas de aprendizaje optimizadas y personalizadas para profesionales de la computación graduados antes de la explosión de la IA moderna. El sistema analiza el plan de estudios antiguo del usuario y sus habilidades actuales para trazar el camino más rápido de actualización en IA, eliminando por completo todo el contenido redundante que el profesional ya domina.
 
 ## Background
 
