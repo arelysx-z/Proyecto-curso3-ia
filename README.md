@@ -7,7 +7,7 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 ## Summary
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
 
-Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales que se graduaron de la Licenciatura de Computación en el año 2017. El sistema analiza el plan de estudios universitario de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo concpetos logicos que el usuario ya domina.
+Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales que se graduaron de la Licenciatura de Computación en el año 2017. El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo concpetos logicos que el usuario ya domina.
 
 
 
@@ -19,7 +19,9 @@ This is how you make a list, if you need one:
 * problem 1
 * problem 2
 * etc.
-
+* El año de la brecha (2017): El año 2017 es reconocido como un año clave en la historia tecnológica, marcado por hitos fundamentales que encendieron la llamada "explosión" de la Inteligencia Artificial (IA) moderna. Este periodo sentó las bases para el crecimiento masivo de la IA y la rápida transformación del entorno digital actual.
+* En el área de la informática, el conocimiento se devalúa rápidamente.
+* Los profesionales que se graduaron de la Licenciatura en Computación en ese año 2017 recibieron una formación con bases lógicas ,programacion estrucutrada, desarrollo orientado a objetos, base de datos relacionaesy metodologias tradiciones.
 
 ## How is it used?
 
