@@ -59,8 +59,8 @@ Por ejemplo, un profesional que estudió programación hace varios años podría
 
 El proyecto de IA, estaría dirigida a profesionales en areas de Computación graduados años atras y quieren actualizar sus competecnias tecnológicas.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+<!--Images will make your README look nice!
+Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)-->
 ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
 
 <!-- tamaño de imagen: -->
