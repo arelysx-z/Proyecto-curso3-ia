@@ -9,6 +9,7 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 
  ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
 
+ 
  ## Resumen
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
 
