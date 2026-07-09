@@ -7,18 +7,12 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 ## Summary
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
 
-Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados en Computación en el año 2017. El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
+Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados hacia varios años atras en areas de Computación . El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
 
 
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
-* problem 1
-* problem 2
-* etc.
   ¿Cuál es el problema que resolverá tu idea?
  
 El año de la brecha (2017): El año 2017 es reconocido como un año clave en la historia tecnológica, marcado por hitos fundamentales que encendieron la llamada "explosión" de la Inteligencia Artificial (IA) moderna. Este periodo sentó las bases para el crecimiento masivo de la IA y la rápida transformación del entorno digital actual.
@@ -27,15 +21,16 @@ Con mi idea se pretende resolver algunos problemas:
 
 * En el área de la informática, el conocimiento se devalúa rápidamente, los profesionales que se graduaron hacia varios años en areas relacionadas en Computación recibieron una formación con bases lógicas ,programacion estrucutrada, desarrollo orientado a objetos, base de datos relacionaes y metodologias tradiciones, pero después de varios años existe una gran diferencia entre lo aprendido durante sucarrera y las tecnologias que actualmente se utilizan y solicitan las empresas
 * La falta de orientación personalizada para identificar qué concocimientos necesita actualizar una persona que se graduó de la universidad hace varios años en areas relacionadas en la computación y cuál debería ser el orden adecuado para aprender las nuevas tecnologias como pro ejemplo, phyton, inteligencia artificial, Machine Learning, Modelos de Lenguaje Largo (LLM)C, y otras que no formaban parte de su formación universitaria.
+¿Qué tan común o frecuente es este problema?
 
-  ¿Qué tan común o frecuente es este problema?
-Este problema es común entre personas que:
-* Se graduaron hace varios años y no pudieron incorporarse inmediamente al área tecnol+ogica.
-* Desean regresar al sector tecnológico, pero desconocen qué conocimientos deben actualizar primero.
-* Encuentran demasiados cursos y recursos, pero no saben cuál es la ruta más adeacuada para poder actualizarse.
+  Este problema es común entre personas que:
+   * Se graduaron hace varios años y no pudieron incorporarse inmediamente al área tecnol+ogica.
+   * Desean regresar al sector tecnológico, pero desconocen qué conocimientos deben actualizar primero.
+   * Encuentran demasiados cursos y recursos, pero no saben cuál es la ruta más adeacuada para poder    actualizarse.
 
 ¿Cuál es tu motivación personal?
-La motivación personal de esta idea de proyecto nace de mi propia eperiencia. Me gradué hace varios años atras y, por circunstancias personales, no pude incorporarme inmediatamente al área tecnológica. Al regresar, encontre un entorno muy diferente, con nuevas tecnologías como la Inteligencia Artificial (IA), Aprendizaje automatico (Machine Learning), Modelos de lenguaje grande (LLM) que no formaron parte de formación inicial.
+
+La motivación personal de esta idea de proyecto nace de mi propia eperiencia. Me gradué hace varios años  atras y, por circunstancias personales, no pude incorporarme inmediatamente al área tecnológica. Al    regresar, encontre un entorno muy diferente, con nuevas tecnologías como la Inteligencia Artificial (IA), Aprendizaje automatico (Machine Learning), Modelos de lenguaje grande (LLM) que no formaron parte de formación inicial.
 Esta situación me permitió identificar un problema que también puede afectar a otras personas graduadas hace varios años: la dificultad de saber qué conocimientos actualizar , por donde comenzar y que habilidades desarrollar para adaptarse al mercado laboral y tecnologico actual.
 
 ¿Por qué es importante o interesante este tema?
