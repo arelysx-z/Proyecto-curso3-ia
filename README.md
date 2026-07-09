@@ -35,10 +35,9 @@ Esta situación me permitió identificar un problema que también puede afectar 
 
 ¿Por qué es importante o interesante este tema?
  Este temas es  importante e intersante porque la tecnología evoluviona constantemente y requiere aprendizaje continuo. Una herramienta basada en Inteligencia Artificial puede ayudar a identificar y reducir la brecha entre la formación acádemica obtenida en el pasado y las competencias que actualmente se demandan en el mercado, facilitando la actualización profesional de muchas personas.
-## How is it used?
 
 # ¿Cómo se utiliza?
-Mi idea de proyecto llamdo TechRefresh-IA sería utilizada por profesionales que desean actualizar sus conocimientos tecnológicos.
+Mi idea de proyecto llamado: TechRefresh-IA sería utilizada por profesionales que desean actualizar sus conocimientos tecnológicos.
 El proceso iniciaría cuando el usuario crea un perfil y proporciona información como:
 * Año de graduación
 * Carrera estudiada
@@ -47,7 +46,6 @@ El proceso iniciaría cuando el usuario crea un perfil y proporciona informació
 * Conocimientos actuales
 * Experirncia profesional
 * Áreas tecnológicas de interés.
-
 
 La IA analizaría esta información para identificar fortalezas y áreas de mejora, creando un mapa de habilidades y una ruta personalizada de aprendizaje.
 
@@ -59,23 +57,6 @@ Once you upload an image to your repository, you can link link to it like this (
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
 
 
 ## Data sources and AI methods quee
