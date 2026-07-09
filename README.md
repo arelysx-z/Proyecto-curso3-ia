@@ -24,12 +24,12 @@ Con mi idea se pretende resolver algunos problemas:
 ¿Qué tan común o frecuente es este problema?
 
   Este problema es común entre personas que:
+  
    * Se graduaron hace varios años y no pudieron incorporarse inmediamente al área tecnol+ogica.
    * Desean regresar al sector tecnológico, pero desconocen qué conocimientos deben actualizar primero.
    * Encuentran demasiados cursos y recursos, pero no saben cuál es la ruta más adeacuada para poder    actualizarse.
 
-¿Cuál es tu motivación personal?
-
+¿Cuál es tu motivación personal?.
 La motivación personal de esta idea de proyecto nace de mi propia eperiencia. Me gradué hace varios años  atras y, por circunstancias personales, no pude incorporarme inmediatamente al área tecnológica. Al    regresar, encontre un entorno muy diferente, con nuevas tecnologías como la Inteligencia Artificial (IA), Aprendizaje automatico (Machine Learning), Modelos de lenguaje grande (LLM) que no formaron parte de formación inicial.
 Esta situación me permitió identificar un problema que también puede afectar a otras personas graduadas hace varios años: la dificultad de saber qué conocimientos actualizar , por donde comenzar y que habilidades desarrollar para adaptarse al mercado laboral y tecnologico actual.
 
@@ -37,8 +37,21 @@ Esta situación me permitió identificar un problema que también puede afectar 
  Este temas es  importante e intersante porque la tecnología evoluviona constantemente y requiere aprendizaje continuo. Una herramienta basada en Inteligencia Artificial puede ayudar a identificar y reducir la brecha entre la formación acádemica obtenida en el pasado y las competencias que actualmente se demandan en el mercado, facilitando la actualización profesional de muchas personas.
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+# ¿Cómo se utiliza?
+Mi idea de proyecto llamdo TechRefresh-IA sería utilizada por profesionales que desean actualizar sus conocimientos tecnológicos.
+El proceso iniciaría cuando el usuario crea un perfil y proporciona información como:
+* Año de graduación
+* Carrera estudiada
+* Lenguajes de programación conocidos
+* Cursos realizados
+* Conocimientos actuales
+* Experirncia profesional
+* Áreas tecnológicas de interés.
 
+
+La IA analizaría esta información para identificar fortalezas y áreas de mejora, creando un mapa de habilidades y una ruta personalizada de aprendizaje.
+
+La plataforma estaría dirigida a profesionales en areas de Computación graduados años atras y quieren actualizar sus competecnias tecnológicas.
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
@@ -65,7 +78,7 @@ main()
 ```
 
 
-## Data sources and AI methods
+## Data sources and AI methods quee
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
