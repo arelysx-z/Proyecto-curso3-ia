@@ -7,9 +7,8 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
  <strong> “Proyecto del curso de Desarrollo de IA” </strong>
 </p align="center">
 
-<p align="center">
  ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
-</p>
+
 ## Summary
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
 
