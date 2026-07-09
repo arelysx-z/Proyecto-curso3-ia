@@ -10,7 +10,7 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 
 Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados hacia varios años atras en areas de Computación . El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
 
-
+![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
 
 ## Background
 
@@ -61,7 +61,8 @@ El proyecto de IA, estaría dirigida a profesionales en areas de Computación gr
 
 <!--Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)-->
-![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
+<!--inserta imagen: ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)-->
+
 
 <!-- tamaño de imagen: -->
 <!-- <img src="https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg" width="300"> -->
