@@ -1,14 +1,15 @@
 # TechRefresh-AI (Actualización Tecnológica-IA)
 
-## Resumen
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
-Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados hacia varios años atras en areas de Computación . El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
-
 <p align="center">
  <strong> “Proyecto del curso de Desarrollo de IA” </strong>
 </p>
 
  ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
+
+ ## Resumen
+Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
+Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados hacia varios años atras en areas de Computación . El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
+
 
 ## Antecedentes : 
 
