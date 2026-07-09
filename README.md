@@ -97,7 +97,6 @@ Algunas desafíos serían:
 * Adaptarse a diferentes niveles de conocimiento.
 
 ## What next?
-
 En el futuro,"TechRefresh-AI" podría incorporar:
 
 * Evaluaciones técnicas automáticas.
@@ -110,9 +109,9 @@ En el futuro,"TechRefresh-AI" podría incorporar:
 A largo plazo este proyecto podria convertirse en una plataforma de acompañamiento inteligente para la actualización profesional continuo.
 
 ## Acknowledgments
+Esta idea de proyecto fue inspirado por el curso Building AI y por la necesidad de ayudar a personas egresedas años atras en áreas de computación a actualizarse y adpatrase a la evolución constante de la tecnología.
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Fuentes de Inspiración:
+* Conceptos aprendidos durante el curso Building AI.
+* Evolución de las tecnologías de programación e inteligencia artificial.
+* Necesidad de aprendizaje continuo.
