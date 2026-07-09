@@ -72,7 +72,7 @@ Once you upload an image to your repository, you can link link to it like this (
 
 
 ## Datos y técnicas de IA : 
-    <!-- Data sources and AI methods -->
+ <!-- Data sources and AI methods -->
 Los datos provendrían de:
 
 * Información proporcionada por el usuario.
