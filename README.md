@@ -48,8 +48,16 @@ El proceso iniciaría cuando el usuario crea un perfil y proporciona informació
 * Áreas tecnológicas de interés.
 
 La IA analizaría esta información para identificar fortalezas y áreas de mejora, creando un mapa de habilidades y una ruta personalizada de aprendizaje.
+Por ejemplo, un profesional que estudió programación hace varios años podría recibir una ruta como:
+* Actualización de fundamentos de programación.
+* Aprendizaje de Python.
+* Uso de herramientas modernas como Git y GitHub.
+* Introducción a Inteligencia Artificial.
+* Aprendizaje de Machine Learning.
+* Desarrollo de aplicaciones utilizando modelos de lenguaje grandes (LLM).
 
-La plataforma estaría dirigida a profesionales en areas de Computación graduados años atras y quieren actualizar sus competecnias tecnológicas.
+El proyecto de IA, estaría dirigida a profesionales en areas de Computación graduados años atras y quieren actualizar sus competecnias tecnológicas.
+
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
 ![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
@@ -60,6 +68,7 @@ If you need to resize images, you have to use an HTML tag, like this:
 
 
 ## Data sources and AI methods quee
+
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
