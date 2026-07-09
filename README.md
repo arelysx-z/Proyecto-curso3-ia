@@ -1,6 +1,6 @@
 <!--# Proyecto FINAL del-curso3-ia----- Building AI.
 Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace varios años atras -->
- <!--Project Title -->
+ <!--Project Title --> 
 #TechRefresh-AI (Actualización Tecnológica-IA)
 
 “Proyecto del curso de Desarrollo de IA”
