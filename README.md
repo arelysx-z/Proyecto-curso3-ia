@@ -1,4 +1,3 @@
-
 # TechRefresh-AI (Actualización Tecnológica-IA) 
 ## Resumen
  <!-- Summary --> 
