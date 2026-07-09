@@ -5,7 +5,7 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 
 <p align="center">
  <strong> “Proyecto del curso de Desarrollo de IA” </strong>
-</p align="center">
+</p>
 
  ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
 
