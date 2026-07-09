@@ -7,7 +7,7 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
 ## Summary
 <!-- Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! --> 
 
-Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales que se graduaron de la Licenciatura de Computación en el año 2017. El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo concpetos logicos que el usuario ya domina.
+Este proyecto consiste en un sistema de inteligencia artificial que recomienda rutas de aprendizaje optimizadas y personalizadas para profesionales graduados en Computación en el año 2017. El sistema analiza el plan de estudios universitario del egresado de ese año especifico  y sus habilidades actuales para trazar o diseñar el camino más rápido para que  pueda actualizar sus conocmientos , habilidades y competencias tecnologicas actuales , eliminando  el contenido redundante que el profesional ya domina, asi evita la perdida de tiempo repitiendo conceptos lógicos que el egresado ya domina.
 
 
 
@@ -19,10 +19,27 @@ This is how you make a list, if you need one:
 * problem 1
 * problem 2
 * etc.
-* El año de la brecha (2017): El año 2017 es reconocido como un año clave en la historia tecnológica, marcado por hitos fundamentales que encendieron la llamada "explosión" de la Inteligencia Artificial (IA) moderna. Este periodo sentó las bases para el crecimiento masivo de la IA y la rápida transformación del entorno digital actual.
-* En el área de la informática, el conocimiento se devalúa rápidamente.
-* Los profesionales que se graduaron de la Licenciatura en Computación en ese año 2017 recibieron una formación con bases lógicas ,programacion estrucutrada, desarrollo orientado a objetos, base de datos relacionaesy metodologias tradiciones.
+  ¿Cuál es el problema que resolverá tu idea?
+ 
+El año de la brecha (2017): El año 2017 es reconocido como un año clave en la historia tecnológica, marcado por hitos fundamentales que encendieron la llamada "explosión" de la Inteligencia Artificial (IA) moderna. Este periodo sentó las bases para el crecimiento masivo de la IA y la rápida transformación del entorno digital actual.
 
+Con mi idea se pretende resolver algunos problemas:
+
+* En el área de la informática, el conocimiento se devalúa rápidamente, los profesionales que se graduaron hacia varios años en areas relacionadas en Computación recibieron una formación con bases lógicas ,programacion estrucutrada, desarrollo orientado a objetos, base de datos relacionaes y metodologias tradiciones, pero después de varios años existe una gran diferencia entre lo aprendido durante sucarrera y las tecnologias que actualmente se utilizan y solicitan las empresas
+* La falta de orientación personalizada para identificar qué concocimientos necesita actualizar una persona que se graduó de la universidad hace varios años en areas relacionadas en la computación y cuál debería ser el orden adecuado para aprender las nuevas tecnologias como pro ejemplo, phyton, inteligencia artificial, Machine Learning, Modelos de Lenguaje Largo (LLM)C, y otras que no formaban parte de su formación universitaria.
+
+  ¿Qué tan común o frecuente es este problema?
+Este problema es común entre personas que:
+* Se graduaron hace varios años y no pudieron incorporarse inmediamente al área tecnol+ogica.
+* Desean regresar al sector tecnológico, pero desconocen qué conocimientos deben actualizar primero.
+* Encuentran demasiados cursos y recursos, pero no saben cuál es la ruta más adeacuada para poder actualizarse.
+
+¿Cuál es tu motivación personal?
+La motivación personal de esta idea de proyecto nace de mi propia eperiencia. Me gradué hace varios años atras y, por circunstancias personales, no pude incorporarme inmediatamente al área tecnológica. Al regresar, encontre un entorno muy diferente, con nuevas tecnologías como la Inteligencia Artificial (IA), Aprendizaje automatico (Machine Learning), Modelos de lenguaje grande (LLM) que no formaron parte de formación inicial.
+Esta situación me permitió identificar un problema que también puede afectar a otras personas graduadas hace varios años: la dificultad de saber qué conocimientos actualizar , por donde comenzar y que habilidades desarrollar para adaptarse al mercado laboral y tecnologico actual.
+
+¿Por qué es importante o interesante este tema?
+ Este temas es  importante e intersante porque la tecnología evoluviona constantemente y requiere aprendizaje continuo. Una herramienta basada en Inteligencia Artificial puede ayudar a identificar y reducir la brecha entre la formación acádemica obtenida en el pasado y las competencias que actualmente se demandan en el mercado, facilitando la actualización profesional de muchas personas.
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
