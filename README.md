@@ -3,7 +3,9 @@ Sistema IA para recomendar rutas de aprendizaje a profesionales graduados hace v
  <!--Project Title --> 
 # TechRefresh-AI (Actualización Tecnológica-IA) 
 
-<strong> “Proyecto del curso de Desarrollo de IA” </strong>
+<p align="center">
+ <strong> “Proyecto del curso de Desarrollo de IA” </strong>
+</p align="center">
 
 ![ia](https://cdn.pixabay.com/photo/2025/04/28/15/08/ai-9565207_640.jpg)
 
